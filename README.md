@@ -1,1 +1,1 @@
-# -skankavacc-.github.io
+skankavacc.github.io
